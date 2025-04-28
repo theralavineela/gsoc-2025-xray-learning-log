@@ -1,1 +1,10 @@
+### 📅 28 April 2025 - GSoC Learning Log Update
+
+- Learned about FITS files structure (Header + Data).
+- Installed and used `astropy.io.fits` to create and open FITS files.
+- Created a sample random image FITS file manually.
+- Opened, explored header and data.
+- Visualized FITS image using `matplotlib.pyplot`.
+- Practiced on Jupyter Notebook for better visualization.
+
 
