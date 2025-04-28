@@ -5,6 +5,6 @@
 - Created a sample random image FITS file manually.
 - Opened, explored header and data.
 - Visualized FITS image using `matplotlib.pyplot`.
-- Practiced on Jupyter Notebook for better visualization.
+
 
 
