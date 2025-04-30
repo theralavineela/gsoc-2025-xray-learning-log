@@ -13,8 +13,8 @@ This repository is my personal learning log while exploring the project **"Inter
 ## 📚 Weekly Log
 | Week | Topic | Status |
 |------|-------|--------|
-| Week 1 | Light Curves (Stingray/Astropy) | ✅ In Progress |
-| Week 2 | FITS files & Astropy | ⏳ |
+| Week 1 | Light Curves (Stingray/Astropy) | ✅ |
+| Week 2 | FITS files & Astropy |✅ |
 | Week 3 | Filtering + Dashboard Exploration | ❌ |
 | Week 4 | Final Review + Visual Upgrades | ❌ |
 
