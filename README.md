@@ -27,3 +27,4 @@ This repository is my personal learning log while exploring the project **"Inter
 
 Weekly updates dropping 👩‍💻✨
 18-04-2025: Added Week 1 light curve simulation using Stingray
+28-04-2025: created fits file and installed astropy
